@@ -5,13 +5,13 @@ A collection of deep reinforcement learning implementations using various algori
 ## Contents
 
 ### Deep Q-Learning
-Implementation of Deep Q-Learning algorithm applied to the Atari Boxing environment. Includes trained agent demonstration videos.
+Implementation of Deep Q-Learning algorithm applied to the Atari `Boxing` environment. Includes trained agent demonstration videos.
 
 ### Deep Expected Sarsa
-Deep Expected Sarsa algorithm implementation for the Atari Boxing environment, providing an alternative approach to value-based RL.
+Deep Expected Sarsa algorithm implementation for the Atari `Boxing` environment, providing an alternative approach to value-based RL.
 
 ### Deep Convolutional Q-Learning
-Convolutional neural network-based Q-Learning implementation for the Atari Kung Fu Master environment, demonstrating CNNs for visual input processing.
+Convolutional neural network-based Q-Learning implementation for the Atari `Kung Fu Master` environment, demonstrating CNNs for visual input processing.
 
 ### TD3 (Twin Delayed Deep Deterministic Policy Gradient)
 TD3 algorithm implementations for continuous control tasks across multiple MuJoCo environments:
