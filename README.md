@@ -2,6 +2,23 @@
 
 A collection of deep reinforcement learning implementations using various algorithms on different environments.
 
+### Setup
+
+**Windows
+```bash
+python -m venv venv
+venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+**Linux and macOS
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+
+Check for CUDA or CPU installation of torch library in the requirements.txt files.
+
 ## Contents
 
 ### Deep Q-Learning
