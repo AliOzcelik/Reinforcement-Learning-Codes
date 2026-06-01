@@ -1,4 +1,4 @@
-# Reinforcement Learning Codes
+# Reinforcement Learning Implementations from Scratch
 
 A collection of deep reinforcement learning implementations using various algorithms on different environments.
 
