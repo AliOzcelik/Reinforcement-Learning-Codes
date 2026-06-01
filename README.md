@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
-
+```
 Check for CUDA or CPU installation of torch library in the requirements.txt files.
 
 ## Contents
