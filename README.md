@@ -26,16 +26,8 @@ Convolutional neural network-based Q-Learning implementation for the Atari Kung 
 TD3 algorithm implementations for continuous control tasks across multiple MuJoCo environments:
 
 - **Ant-v5**: Quadruped locomotion task
-  - `TD3/ant/TD3.py` - TD3 implementation
-  - Includes trained models, learning curves, and episode videos
-
 - **HalfCheetah-v5**: Bipedal robot running task
-  - `TD3/half_cheetah/TD3.py` - TD3 implementation
-  - Includes trained models, learning curves, and episode videos
-
 - **HumanoidStandup-v4**: Humanoid standing-up task
-  - `TD3/humanoid_standup/TD3.py` - TD3 implementation
-  - Includes trained models, learning curves, and episode videos
 
 ## Algorithms Implemented
 
