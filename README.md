@@ -43,6 +43,7 @@ TD3 algorithm implementations for continuous control tasks across multiple MuJoC
 - `HalfCheetah-v5`: Bipedal robot running task
 - `HumanoidStandup-v4`: Humanoid standing-up task
 
+
 ## Algorithms Implemented
 
 - **DQN (Deep Q-Network)**: Value-based method for discrete action spaces
@@ -51,6 +52,7 @@ TD3 algorithm implementations for continuous control tasks across multiple MuJoC
 - **PPO (Proximal Policy Optimization)**: On-policy actor-critic method with clipped objective for stable training
 - **SAC**: Entropy-regularized actor-critic method for continuous control
 - **TD3**: State-of-the-art actor-critic method for continuous control
+
 
 ## Requirements
 
