@@ -30,6 +30,9 @@ Deep Expected Sarsa algorithm implementation for the Atari `Boxing` environment,
 ### Deep Convolutional Q-Learning
 Convolutional neural network-based Q-Learning implementation for the Atari `Kung Fu Master` environment, demonstrating CNNs for visual input processing.
 
+### PPO (Proximal Policy Optimization)
+SAC algorithm implementation for continuous control on the `Ant-v5` MuJoCo environment. Includes training code, saved model checkpoints, reward plots, and final trained-agent demonstration videos.
+
 ### TD3 (Twin Delayed Deep Deterministic Policy Gradient)
 TD3 algorithm implementations for continuous control tasks across multiple MuJoCo environments:
 
