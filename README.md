@@ -31,7 +31,10 @@ Deep Expected Sarsa algorithm implementation for the Atari `Boxing` environment,
 Convolutional neural network-based Q-Learning implementation for the Atari `Kung Fu Master` environment, demonstrating CNNs for visual input processing.
 
 ### PPO (Proximal Policy Optimization)
-SAC algorithm implementation for continuous control on the `Ant-v5` MuJoCo environment. Includes training code, saved model checkpoints, reward plots, and final trained-agent demonstration videos.
+PPO algorithm implementation for continuous control on `LunarLander-v3` (Box2D). 
+
+### SAC (Soft Actor-Critic)
+SAC algorithm implementation for continuous control on the `Ant-v5` MuJoCo environment.
 
 ### TD3 (Twin Delayed Deep Deterministic Policy Gradient)
 TD3 algorithm implementations for continuous control tasks across multiple MuJoCo environments:
@@ -40,16 +43,14 @@ TD3 algorithm implementations for continuous control tasks across multiple MuJoC
 - `HalfCheetah-v5`: Bipedal robot running task
 - `HumanoidStandup-v4`: Humanoid standing-up task
 
-### SAC (Soft Actor-Critic)
-SAC algorithm implementation for continuous control on the `Ant-v5` MuJoCo environment. Includes training code, saved model checkpoints, reward plots, and final trained-agent demonstration videos.
-
 ## Algorithms Implemented
 
 - **DQN (Deep Q-Network)**: Value-based method for discrete action spaces
 - **Deep Expected Sarsa**: On-policy temporal difference learning with deep networks
 - **Convolutional DQN**: DQN with CNN architecture for image-based observations
-- **TD3**: State-of-the-art actor-critic method for continuous control
+- **PPO (Proximal Policy Optimization)**: On-policy actor-critic method with clipped objective for stable training
 - **SAC**: Entropy-regularized actor-critic method for continuous control
+- **TD3**: State-of-the-art actor-critic method for continuous control
 
 ## Requirements
 
